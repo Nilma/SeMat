@@ -1,0 +1,40 @@
+{
+	"ProjectName": "SeMat",
+	"ProjectGuid": "{e14d1c38-fa24-499f-b2f9-76f7056122e5}",
+	"projectVersion": 1,
+	"AppIdentifier": "com.telerik.SeMat",
+	"DisplayName": "SeMat",
+	"Author": "",
+	"Description": "",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"iOSBackgroundMode": [],
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"FrameworkVersion": "3.5.0",
+	"AndroidPermissions": [],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"AndroidHardwareAcceleration": "false",
+	"iOSStatusBarStyle": "Default",
+	"Framework": "Cordova",
+	"WP8TileTitle": "",
+	"WP8Publisher": "",
+	"WP8Capabilities": [],
+	"WP8Requirements": [],
+	"WP8PublisherID": "{f3829452-0acf-4c1b-8b34-0f7fa6d7c852}",
+	"WP8ProductID": "{f60b56a4-27c8-4e7c-ba53-a9e4e4e837b0}",
+	"WPSdk": "8.0",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.SeMat",
+	"WP8WindowsPublisherName": "CN=Telerik",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA",
+		"ID_RESOLUTION_HD720P"
+	]
+}
